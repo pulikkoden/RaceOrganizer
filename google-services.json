@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "598817623333",
+    "firebase_url": "https://raceorganizer-536bf.firebaseio.com",
+    "project_id": "raceorganizer-536bf",
+    "storage_bucket": "raceorganizer-536bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598817623333:android:12fc7598e894a900",
+        "android_client_info": {
+          "package_name": "com.example.anil.raceorganizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598817623333-v0dhlc76e9a7khrpsvjlepl0gs4pj3s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anil.raceorganizer",
+            "certificate_hash": "776A89A265261942F6CB0FFB338AAA8D25A14C32"
+          }
+        },
+        {
+          "client_id": "598817623333-ahitvrs1s3qie2svrvekpulamec7q3c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFLNvo6DnncS-uP-SKhzJRCY7f2V2M__s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598817623333-ahitvrs1s3qie2svrvekpulamec7q3c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
